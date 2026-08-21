@@ -16,7 +16,7 @@
 </p>
 
 - 🌱 I'm currently learning **Python and Java**
-- 💬 Ask me about **C and Python**
+- 💬 Ask me about **Python, FastAPI, React JS, Java**
 - 📫 How to reach me **anshmotghare953@gmail.com**
 
 <img align="right" alt="Coding gif" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
